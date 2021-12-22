@@ -53,4 +53,14 @@ The purpose of this project was to demonstrate our understanding of C++, the Com
 
 
 ## Credits
-To my teammates Edgar, Calvin, and Yatharth.
+All credits to:
+
+https://www.youtube.com/watch?v=OSwutjvNjK4&t=235s
+
+https://www.youtube.com/watch?v=P2oXfz87Aqs&t=377s
+
+https://www.youtube.com/watch?v=bt_JkmhilXU
+
+To my teammates Edgar, Calvin, and Yatharth,
+
+And countless stackoverflow answers
