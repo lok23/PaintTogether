@@ -11,27 +11,34 @@ PaintTogether is a collaborative painting application where multiple clients can
 
 # Functionality
 This app has 6 main functionalities
-1) Paint
+
+## 1) Paint
+
 https://user-images.githubusercontent.com/45181211/147141232-78553552-39b4-43da-912b-a480d543231d.mp4
 
-3) Undo Paint
+## 2) Undo Paint
+
 https://user-images.githubusercontent.com/45181211/147141386-cec36dfc-2a60-4e40-98c9-44b0103c6dc6.mp4
 
 
-5) Redo Paint
+## 3) Redo Paint
+
 https://user-images.githubusercontent.com/45181211/147142437-86877571-18f0-4076-abf6-c764c4d93dc0.mp4
 
 
 
-7) Change Color
+## 4) Change Color
+
 https://user-images.githubusercontent.com/45181211/147142477-7ed6f0b6-7816-4495-98ad-e7f9b64ef93b.mp4
 
 
-9) Reset Canvas (to selected color)
+## 5) Reset Canvas (to selected color)
+
 https://user-images.githubusercontent.com/45181211/147142485-53b45979-ee11-4ba0-b6ce-b6b665a329e1.mp4
 
 
-12) Networked Chat
+## 6) Networked Chat
+
 [![4](https://user-images.githubusercontent.com/45181211/147136570-0bd5b0f1-ad03-48c4-a483-8c74e234aca1.PNG)](https://youtu.be/O0215dgTq24?t=280)
 
 
