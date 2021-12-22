@@ -4,13 +4,13 @@
 A Project for CS5500 Fundamentals of Software Engineering. 
 
 # What is this?
-PaintTogether is a collaborative painting application where multiple clients can connect to a server and work together. This collaboration is possible because changes made on one user's canvas are reflected on another user's canvas. Clients can change brush color, brush size, undo, redo, or even reset the entire canvas to one color!
+PaintTogether is a collaborative painting application where multiple clients can connect to a server and work together. This collaboration is possible because changes made on one user's canvas are reflected on another user's canvas. Clients can change brush color, undo, redo, or even reset the entire canvas to one color!
 
 
 
 
 # Functionality
-This app has 7 main functionalities
+This app has 6 main functionalities
 1) Paint
 https://user-images.githubusercontent.com/45181211/147141232-78553552-39b4-43da-912b-a480d543231d.mp4
 
@@ -19,10 +19,19 @@ https://user-images.githubusercontent.com/45181211/147141386-cec36dfc-2a60-4e40-
 
 
 5) Redo Paint
-6) Change Color
-7) Reset Canvas (to selected color)
-8) Change Brush Size
-9) Networked Chat
+https://user-images.githubusercontent.com/45181211/147142437-86877571-18f0-4076-abf6-c764c4d93dc0.mp4
+
+
+
+7) Change Color
+https://user-images.githubusercontent.com/45181211/147142477-7ed6f0b6-7816-4495-98ad-e7f9b64ef93b.mp4
+
+
+9) Reset Canvas (to selected color)
+https://user-images.githubusercontent.com/45181211/147142485-53b45979-ee11-4ba0-b6ce-b6b665a329e1.mp4
+
+
+12) Networked Chat
 
 ## Purpose
 The purpose of this project was to demonstrate our understanding of C++, the Command pattern, GUIs, networking, and working with an Agile project management methodology. This project was produced under a simulated work contract, with the customer being our professor, our Scrum Master being our TA, and our teammates being our co-workers. 
