@@ -32,6 +32,8 @@ https://user-images.githubusercontent.com/45181211/147142485-53b45979-ee11-4ba0-
 
 
 12) Networked Chat
+[![4](https://user-images.githubusercontent.com/45181211/147136570-0bd5b0f1-ad03-48c4-a483-8c74e234aca1.PNG)](https://youtu.be/O0215dgTq24?t=280)
+
 
 ## Purpose
 The purpose of this project was to demonstrate our understanding of C++, the Command pattern, GUIs, networking, and working with an Agile project management methodology. This project was produced under a simulated work contract, with the customer being our professor, our Scrum Master being our TA, and our teammates being our co-workers. 
